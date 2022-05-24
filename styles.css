@@ -165,7 +165,7 @@ margin: 3% 45%;
 padding: 1.2em;
 }
 
-
+/* 
 /* media screen  */
 @media screen and (max-width: 960px) {
 #wrapper {
@@ -197,7 +197,7 @@ section {
 width: auto;
 float: none;
 }}
-
+ */
 /* @charset "utf-8";
 CSS Document
 body {
